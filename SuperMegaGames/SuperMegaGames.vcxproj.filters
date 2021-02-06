@@ -18,5 +18,17 @@
     <ClCompile Include="SuperMegaGames.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="menu.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="intro.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="intro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
